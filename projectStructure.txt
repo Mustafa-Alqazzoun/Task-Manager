@@ -1,0 +1,36 @@
+task-management-app/
+├── public/
+│   └── favicon.ico
+├── src/
+│   ├── components/
+│   │   ├── Auth/
+│   │   │   ├── Login.jsx
+│   │   │   └── ProtectedRoute.jsx
+│   │   ├── Dashboard/
+│   │   │   ├── Dashboard.jsx
+│   │   │   └── TaskFilter.jsx
+│   │   ├── Task/
+│   │   │   ├── TaskForm.jsx
+│   │   │   ├── TaskItem.jsx
+│   │   │   └── TaskList.jsx
+│   │   └── UI/
+│   │       ├── Header.jsx
+│   │       └── LoadingSpinner.jsx
+│   ├── services/
+│   │   └── api.js
+│   ├── context/
+│   │   └── AuthContext.jsx
+│   ├── hooks/
+│   │   └── useTasks.js
+│   ├── App.jsx
+│   ├── index.css
+│   └── main.jsx
+├── .gitignore
+├── db.json
+├── index.html
+├── package.json
+├── vite.config.js
+└── README.md
+3. as appear in the photo the delete and the mark status  buttons are on the left-bottom make then on the right-bottom and leave the rest the same.
+So analysis my project see what files need change and send me back these files fully updated and ready to copy paste.
+1. I want to enhance my UI by adding some modern stuff and animations.
